@@ -1,4 +1,5 @@
-# Lab: HTML 
+# HTML lab!
+
 
 For this lab, imagine you are creating a travel blog and want to build a webpage showcasing your recent trip to Fire Island. You will need to include the following pieces on your webpage:
 
